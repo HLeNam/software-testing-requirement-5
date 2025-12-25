@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>item_Option_Exact</name>
+   <tag></tag>
+   <elementGuidId>8bb174ea-fdf5-4e4c-8fb8-eb503a36d7b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@role='listbox']//span[normalize-space(text())='${name}']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-autocomplete-dropdown.--positon-bottom</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;admin adminChrysa AryCary Charlot BeiderbeckSlade CarcasSlade Carcas&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3a4e7f42-609a-4583-aae6-d0e40d9669df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>listbox</value>
+      <webElementGuid>1ed005ff-8474-48a3-8ede-148121f57441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-autocomplete-dropdown --positon-bottom</value>
+      <webElementGuid>19b84e84-26b0-4af8-bdcf-cd57f065a97b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>admin  adminChrysa  AryCary Charlot BeiderbeckSlade  CarcasSlade  Carcas</value>
+      <webElementGuid>cf7577ce-f85a-47c7-928f-7dcb9478effb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;oxd-table-filter&quot;]/div[@class=&quot;oxd-table-filter-area&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-4 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/div[@class=&quot;oxd-autocomplete-wrapper&quot;]/div[@class=&quot;oxd-autocomplete-dropdown --positon-bottom&quot;]</value>
+      <webElementGuid>00ea74da-cef6-4933-a24b-4199a79b31fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div[2]/form/div/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>1c18afab-31cb-477d-892b-e3b2522a1965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Name'])[1]/following::div[6]</value>
+      <webElementGuid>a67a9d93-41aa-4f06-8bc9-83866feaa31b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>7e6c5873-47ae-4ab0-99c1-871a18426b88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'admin  adminChrysa  AryCary Charlot BeiderbeckSlade  CarcasSlade  Carcas' or . = 'admin  adminChrysa  AryCary Charlot BeiderbeckSlade  CarcasSlade  Carcas')]</value>
+      <webElementGuid>5f17b53c-ad6f-40b3-85da-dc3283770313</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

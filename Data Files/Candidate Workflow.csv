@@ -1,0 +1,14 @@
+first_name,last_name,vacancy_id,email,start_state,action,expected_status,interview_title,interviewer,interview_date,note
+Elane,Stoakley,1,estoakley0@etsy.com,Initiated,Shortlist,Status: Shortlisted,,,,Verify transition from Initiated to Shortlisted
+Jocelin,Brawn,3,jbrawn1@globo.com,Initiated,Reject,Status: Rejected,,,,Verify transition from Initiated to Rejected
+Annice,Pelling,4,apelling2@pen.io,Shortlisted,Schedule Interview,Status: Interview Scheduled,Online Interview,Chrysa,2025-12-26,Verify transition from Shortlisted to Interview Scheduled
+Laurel,Rylett,1,lrylett3@newyorker.com,Shortlisted,Reject,Status: Rejected,,,,Verify transition from Shortlisted to Rejected
+Gilda,Lanon,5,glanon4@arstechnica.com,Interview Scheduled,Mark Passed,Status: Interview Passed,,,,Verify transition from Interview Scheduled to Interview Passed
+Ysabel,Stoffel,1,ystoffel5@yelp.com,Interview Scheduled,Mark Failed,Status: Interview Failed,,,,Verify transition from Interview Scheduled to Interview Failed
+Archibaldo,Finlry,4,afinlry6@ehow.com,Interview Scheduled,Reject,Status: Rejected,,,,Verify transition from Interview Scheduled to Rejected
+Gavrielle,Landon,2,glandon7@bbc.co.uk,Interview Passed,Offer Job,Status: Job Offered,,,,Verify transition from Interview Passed to Job Offered
+Gusta,Petrillo,2,gpetrillo8@wiley.com,Interview Passed,Schedule Interview,Status: Interview Scheduled,Online Interview,Cary,2025-12-26,Verify scheduling a second interview (Loop back)
+Silva,Henric,4,shenric9@blogspot.com,Interview Passed,Reject,Status: Rejected,,,,Verify transition from Interview Passed to Rejected
+Slade,Carcas,2,scarcasa@opensource.org,Job Offered,Hire,Status: Hired,,,,Verify transition from Job Offered to Hired
+Kellen,Americi,5,kamericib@tripod.com,Job Offered,Offer Declined,Status: Offer Declined,,,,Verify transition from Job Offered to Offer Declined
+Ogdon,Bonallick,2,obonallickc@ucoz.com,Job Offered,Reject,Status: Rejected,,,,Verify transition from Job Offered to Rejected

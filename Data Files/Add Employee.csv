@@ -1,0 +1,16 @@
+tc_id,first_name,middle_name,last_name,employee_id,photo_path,is_create_login,username,password,confirm_password,expect_type,expect_message
+UC01UI01,Shana,,Clapperton,,,FALSE,,,,Success,
+UC01UI02,Cary,Charlot,Beiderbeck,EMP1,,FALSE,,,,Success,
+UC01UI03,,,Dumbar,,,FALSE,,,,Error,Required
+UC01UI04,Jamima,,,,,FALSE,,,,Error,Required
+UC01UI05,DonnajeanShanaEdwardEuphemiasas,,Nurdin,,,FALSE,,,,Error,Should not exceed 30
+UC01UI06,Madelle,Suzi,Nornable,EMP1,,FALSE,,,,Error,Employee Id already exists
+UC01UI07,Chrysa,,Ary,EMP2,,TRUE,lary4,mQ9`\R*dU'zH!3,mQ9`\R*dU'zH!3,Success,
+UC01UI08,Lenette,,Martinovsky,,,TRUE,omar,lP1{abq||boTs,lP1{abq||boTs,Error,Should be at least 5 characters
+UC01UI09,Lenette,,Martinovsky,,,TRUE,omartinovskymcscowcroft1omartinovskymcsco,lP1{abq||boTs,lP1{abq||boTs,Error,Should not exceed 40 characters
+UC01UI10,Lenette,,Martinovsky,,,TRUE,lary4,lP1{abq||boTs,lP1{abq||boTs,Error,Username already exists
+UC01UI11,Grove,,Snoday,,,TRUE,bsnodaya,vF8_M}Q~af,fa~Q}M_8Fv,Error,Passwords do not match
+UC01UI12,Audie,,Haycroft,,,TRUE,mhaycroftro,123,123,Error,Should have at least 8 characters
+UC01UI13,,,,,C:\Users\HONG THUY\Desktop\22120217.pdf,FALSE,,,,Error,File type not allowed
+UC01UI14,,,,,C:\Users\HONG THUY\Desktop\file_example_JPG_2500kB.jpg,FALSE,,,,Error,Attachment Size Exceeded
+UC01UI15,Bil,,Petrelli,EMP12345678,,FALSE,,,,Error,Should not exceed 10 characters

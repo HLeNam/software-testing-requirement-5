@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Note</name>
+   <tag></tag>
+   <elementGuidId>d59f3a7c-664b-4529-a8d6-3301926570ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.oxd-textarea.oxd-textarea--focus.oxd-textarea--resize-vertical</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div[2]/div/div/div/div[2]/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Type here&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>ddac2896-e078-4223-b186-c0f08af1f7d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-textarea oxd-textarea--focus oxd-textarea--resize-vertical</value>
+      <webElementGuid>eff23c6a-bec7-4520-b925-ddef036b13c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Type here</value>
+      <webElementGuid>deec598a-48e9-49fb-80cc-8ccaa73b48fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-3&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters --span-column-2&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/textarea[@class=&quot;oxd-textarea oxd-textarea--focus oxd-textarea--resize-vertical&quot;]</value>
+      <webElementGuid>1a67f392-ce17-4bf4-a092-73ddf5eb8a8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div[2]/div/div/div/div[2]/textarea</value>
+      <webElementGuid>e2615d9d-819f-4c37-a77a-4d64f7feb24a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>62eda76c-7428-4d94-812b-fde817aad5f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Type here']</value>
+      <webElementGuid>b33826b8-51a5-4252-82df-d0802f400506</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

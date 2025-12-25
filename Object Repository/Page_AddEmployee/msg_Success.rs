@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>msg_Success</name>
+   <tag></tag>
+   <elementGuidId>32127804-9a8a-4d5a-9efb-f2eda57afa3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='oxd-toaster_1']/div/div/div[2]/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.oxd-text.oxd-text--p.oxd-text--toast-message.oxd-toast-content-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Successfully Saved&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>cd985b56-aecc-4095-96de-5d10ec873720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text</value>
+      <webElementGuid>097aefce-9689-4c63-92ec-0e2715e7b5f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Successfully Saved</value>
+      <webElementGuid>d6a8857c-fd9e-4335-b293-9414b9d36482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;oxd-toaster_1&quot;)/div[@class=&quot;oxd-toast oxd-toast--success oxd-toast-container--toast&quot;]/div[@class=&quot;oxd-toast-start&quot;]/div[@class=&quot;oxd-toast-content oxd-toast-content--success&quot;]/p[@class=&quot;oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text&quot;]</value>
+      <webElementGuid>9741dfd0-5a2e-49ba-bc3d-18dd99674ae9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='oxd-toaster_1']/div/div/div[2]/p[2]</value>
+      <webElementGuid>584f2e35-bfe7-4bdc-bf40-d6df6c3da3a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM, Inc'])[1]/following::p[2]</value>
+      <webElementGuid>a6d94a11-56a6-4f0b-9667-29ad23891e67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::p[1]</value>
+      <webElementGuid>af2697e8-6056-45fc-a338-d2ec1b7a654a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Successfully Saved']/parent::*</value>
+      <webElementGuid>f0b4f5ac-63a4-42b9-9743-0b1dbde256c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p[2]</value>
+      <webElementGuid>f72ab0e3-b3f0-4c90-8d4a-5294f07222bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Successfully Saved' or . = 'Successfully Saved')]</value>
+      <webElementGuid>75ba242b-7b31-48ac-a4d7-e5f46b3e31c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

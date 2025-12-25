@@ -1,0 +1,18 @@
+tc_id,employee_name,is_select_name,employee_id,status,include,supervisor,is_select_supervisor,job_title,sub_unit,expect_type,expect_content
+UC02UI01,,FALSE,EMP999999,,Past Employees Only,,FALSE,,,VerifyText,No Records Found
+UC02UI02,Cary,FALSE,EMP999999,Part-Time,Current and Past Employees,admin,TRUE,Software Testing,Engineering,VerifyText,No Records Found
+UC02UI03,,FALSE,,,Current Employees Only,admin,FALSE,Senior Sales Associate,Engineering,VerifyError,Invalid
+UC02UI04,Cary,TRUE,EMP0000000001,,Current and Past Employees,admin,TRUE,,Sales,VerifyError,Invalid Parameter
+UC02UI05,Shana,TRUE,EMP0000000001,Part-Time,Past Employees Only,admin,FALSE,Senior Sales Associate,,VerifyError,Invalid
+UC02UI06,Cary,TRUE,EMP999999,FullTime,Current Employees Only,,FALSE,Software Testing,Sales,VerifyText,No Records Found
+UC02UI07,Cary,FALSE,EMP0000000001,,Current Employees Only,admin,TRUE,Software Testing,,VerifyError,Invalid Parameter
+UC02UI08,Cary,FALSE,,Part-Time,Past Employees Only,admin,FALSE,,Sales,VerifyError,Invalid
+UC02UI09,Cary,FALSE,EMP0000000001,FullTime,Current and Past Employees,,FALSE,Senior Sales Associate,Engineering,VerifyError,Invalid Parameter
+UC02UI10,Shana,TRUE,EMP3,,Past Employees Only,,FALSE,,Engineering,VerifyText,Records Found
+UC02UI11,,FALSE,,FullTime,Current and Past Employees,admin,TRUE,Software Testing,,VerifyText,Records Found
+UC02UI12,Chrysa,FALSE,EMP2,Part-Time,Current Employees Only,admin,TRUE,Senior Sales Associate,Sales,VerifyText,Records Found
+UC02UI13,Shana,TRUE,,FullTime,Past Employees Only,admin,FALSE,Software Testing,Engineering,VerifyError,Invalid
+UC02UI14,,FALSE,,Part-Time,Current Employees Only,,FALSE,,Sales,VerifyText,Records Found
+UC02UI15,,FALSE,EMP1,FullTime,Current and Past Employees,admin,FALSE,Software Testing,,VerifyError,Invalid
+UC02UI16,,FALSE,EMP999999,FullTime,Current and Past Employees,admin,FALSE,Senior Sales Associate,Sales,VerifyError,Invalid
+UC02UI17,,FALSE,EMP0000000001,Part-Time,Past Employees Only,admin,TRUE,Software Testing,,VerifyError,Invalid Parameter

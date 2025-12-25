@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>msg_NoRecords</name>
+   <tag></tag>
+   <elementGuidId>94a27e05-7d70-4d31-9cf2-7265b7c9ebc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-horizontal-padding.orangehrm-vertical-padding > span.oxd-text.oxd-text--span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;No Records Found&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cc5e9d41-dcc0-4ac2-a378-db260df9f894</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--span</value>
+      <webElementGuid>5d781210-1501-49b1-851c-ab3fd66695fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No Records Found</value>
+      <webElementGuid>c89d1630-ee93-4d8b-9478-8fc2778b2415</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-paper-container&quot;]/div[2]/div[@class=&quot;orangehrm-horizontal-padding orangehrm-vertical-padding&quot;]/span[@class=&quot;oxd-text oxd-text--span&quot;]</value>
+      <webElementGuid>dfb884bf-c291-4f2e-8ebd-aef4a24dcdd5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div[2]/div/span</value>
+      <webElementGuid>092eace8-6665-48d5-83b7-05478e51aa62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No Records Found']/parent::*</value>
+      <webElementGuid>0747cf14-66d3-48bd-80cb-eed8fee80183</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span</value>
+      <webElementGuid>53bada45-4960-4039-97b7-b5ec51e679e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'No Records Found' or . = 'No Records Found')]</value>
+      <webElementGuid>b4ce1a1e-2040-4cbc-9d8c-ee191acff449</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
